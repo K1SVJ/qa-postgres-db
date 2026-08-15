@@ -22,7 +22,3 @@ java -jar db-api.jar
 ```bash
 Открыть в браузере: http://localhost:9999/api/cards
 ```
-### Скриншот ответа приложения:
-```bash
-
-```
